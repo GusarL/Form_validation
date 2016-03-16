@@ -1,0 +1,7 @@
+{
+  "name": "Form validation",
+  "tagline": "",
+  "body": "# Form_validation\r\nДопустим, есть форма. \r\n- логин состоит только из латинских букв, первая заглавная;\r\n-пароль состоит из цифр, латинских букв и знака подчёркивания.\r\nНапишите функцию, которая делает проверку этих условий. Логин должен быть уникальным в системе.\r\nПользователь может сделать не более 5 попыток.\r\n\r\nThere is a form.\r\n- the login contanes only letters, the first letter is capital;\r\n- the password contanes numbers, letters and underscores.\r\nWrite a function that makes the verification of these conditions. Username must be unique in the system.\r\nThis user can do no more than 5 attempts.\r\n\r\n\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
